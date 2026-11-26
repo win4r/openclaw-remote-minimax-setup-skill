@@ -1,5 +1,3 @@
-# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
-
 # OpenClaw Remote MiniMax Setup Skill
 
 A reusable OpenClaw skill for deploying and validating **OpenClaw on a remote Linux server over SSH** with:
